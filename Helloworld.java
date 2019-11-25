@@ -3,6 +3,6 @@
  */
 public class HelloWorld {
   public static void main(String[] args) {
-    System.out.println("Hello, World Sankari updated in Imageupd branch");
+    System.out.println("Hello, World Sankari updated in Imageupd branch -updated ");
   }
 }
